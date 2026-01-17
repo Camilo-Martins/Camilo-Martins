@@ -1,4 +1,4 @@
-# 💫 Sobre mi:
+#  Sobre mi:
 Ingeniero en Informática con más de tres años de experiencia en desarrollo con Java, JavaScript y Oracle/PL/SQL.<br>Cuento además con un Diplomado en Ciberseguridad, donde obtuve conocimientos en marcos normativos como ISO 27001/27002, CIS Controls v8 y NIST, junto con el uso práctico de herramientas como Nmap, Nessus, Wireshark y Metasploitable.<br><br>Actualmente estoy construyendo mi portafolio de manera sólida y progresiva, trabajando con React.js, TypeScript, Django y Python. Me interesa integrar tecnologías que aporten valor real y me permitan crecer tanto técnica como profesionalmente.
 
 
