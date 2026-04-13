@@ -1,6 +1,13 @@
 #  Sobre mi:
-Ingeniero en Informática con más de tres años de experiencia en desarrollo con Java, JavaScript y Oracle/PL/SQL.<br>Cuento además con un Diplomado en Ciberseguridad, donde obtuve conocimientos en marcos normativos como ISO 27001/27002, CIS Controls v8 y NIST, junto con el uso práctico de herramientas como Nmap, Nessus, Wireshark y Metasploitable.<br><br>Actualmente estoy construyendo mi portafolio de manera sólida y progresiva, trabajando con React.js, TypeScript, Django y Python. Me interesa integrar tecnologías que aporten valor real y me permitan crecer tanto técnica como profesionalmente.
+Ingeniero en Informática con más de tres años de experiencia en desarrollo de software, enfocado actualmente en backend.
 
+He trabajado con tecnologías como Java, JavaScript y Oracle/PL/SQL, y actualmente estoy consolidando mi perfil en el desarrollo de APIs y sistemas de gestión utilizando Python, Django y Django REST Framework.
+
+He desarrollado un sistema de gestión completo, trabajando con una arquitectura basada en separación de responsabilidades (modelos, serializers, servicios y vistas), integrando frontend con Vue 3 y despliegue mediante Docker.
+
+Actualmente continúo ampliando mi portafolio con nuevos proyectos, enfocándome en mantener una arquitectura clara, código mantenible y soluciones funcionales orientadas a problemas reales.
+
+Mi objetivo es seguir fortaleciendo mis habilidades backend y aportar en el desarrollo de soluciones robustas y escalables.
 
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//in/camilo-martins-oliva/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:camilo.s.martins.oliva@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Camilo-Martins) 
